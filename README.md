@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhautik Godhasara</h1>
 <h3 align="center">A passionate Full Stack developer and Mobile Developer from India</h3>
 
-- 🌱 I’m currently learning **.Net MVC Framework, Flutter**
+- 🌱 I’m currently learning **Machine Learning and Cyber Security**
 
 - 💬 Ask me about **Anything**
 
